@@ -13,6 +13,38 @@
 		FA66F7F3285A065C00E2D4FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA66F7F1285A065C00E2D4FA /* Main.storyboard */; };
 		FA66F7F5285A065E00E2D4FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA66F7F4285A065E00E2D4FA /* Assets.xcassets */; };
 		FA66F7F8285A065E00E2D4FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA66F7F6285A065E00E2D4FA /* LaunchScreen.storyboard */; };
+		FA66F817285A06EC00E2D4FA /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F800285A06EC00E2D4FA /* Date.swift */; };
+		FA66F818285A06EC00E2D4FA /* Labels.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F802285A06EC00E2D4FA /* Labels.swift */; };
+		FA66F819285A06EC00E2D4FA /* DIspatcherName.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F804285A06EC00E2D4FA /* DIspatcherName.swift */; };
+		FA66F81A285A06EC00E2D4FA /* LoadStage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F805285A06EC00E2D4FA /* LoadStage.swift */; };
+		FA66F81B285A06EC00E2D4FA /* NetworkCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F806285A06EC00E2D4FA /* NetworkCheck.swift */; };
+		FA66F81D285A06EC00E2D4FA /* UiviewController+AddChild.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F809285A06EC00E2D4FA /* UiviewController+AddChild.swift */; };
+		FA66F81E285A06EC00E2D4FA /* TextFieldExtansions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F80A285A06EC00E2D4FA /* TextFieldExtansions.swift */; };
+		FA66F81F285A06EC00E2D4FA /* AlertAble.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F80B285A06EC00E2D4FA /* AlertAble.swift */; };
+		FA66F820285A06EC00E2D4FA /* Color+Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F80C285A06EC00E2D4FA /* Color+Style.swift */; };
+		FA66F821285A06EC00E2D4FA /* Data+Extansions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F80D285A06EC00E2D4FA /* Data+Extansions.swift */; };
+		FA66F822285A06EC00E2D4FA /* Textfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F80E285A06EC00E2D4FA /* Textfield.swift */; };
+		FA66F823285A06EC00E2D4FA /* ViewExtansions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F80F285A06EC00E2D4FA /* ViewExtansions.swift */; };
+		FA66F825285A06EC00E2D4FA /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F811285A06EC00E2D4FA /* StringExtension.swift */; };
+		FA66F826285A06EC00E2D4FA /* ToastExtansion.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F812285A06EC00E2D4FA /* ToastExtansion.swift */; };
+		FA66F827285A06EC00E2D4FA /* NSMutableData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F813285A06EC00E2D4FA /* NSMutableData.swift */; };
+		FA66F828285A06EC00E2D4FA /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F814285A06EC00E2D4FA /* Button.swift */; };
+		FA66F829285A06EC00E2D4FA /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F815285A06EC00E2D4FA /* Utils.swift */; };
+		FA66F82A285A06EC00E2D4FA /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F816285A06EC00E2D4FA /* Colors.swift */; };
+		FA66F86E285A073D00E2D4FA /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F82C285A073D00E2D4FA /* Model.swift */; };
+		FA66F86F285A073D00E2D4FA /* APIEndpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F82E285A073D00E2D4FA /* APIEndpoints.swift */; };
+		FA66F87E285A073D00E2D4FA /* FileModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F841285A073D00E2D4FA /* FileModel.swift */; };
+		FA66F896285A073E00E2D4FA /* NetworkConfigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F864285A073D00E2D4FA /* NetworkConfigure.swift */; };
+		FA66F897285A073E00E2D4FA /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F865285A073D00E2D4FA /* Endpoint.swift */; };
+		FA66F898285A073E00E2D4FA /* DataTransferService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F866285A073D00E2D4FA /* DataTransferService.swift */; };
+		FA66F899285A073E00E2D4FA /* EncodeDecoderHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F868285A073D00E2D4FA /* EncodeDecoderHelper.swift */; };
+		FA66F89A285A073E00E2D4FA /* ConnectionError.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F86A285A073D00E2D4FA /* ConnectionError.swift */; };
+		FA66F89B285A073E00E2D4FA /* Cancellable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F86B285A073D00E2D4FA /* Cancellable.swift */; };
+		FA66F89C285A073E00E2D4FA /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F86C285A073D00E2D4FA /* NetworkService.swift */; };
+		FA66F89D285A073E00E2D4FA /* RepositoryTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F86D285A073D00E2D4FA /* RepositoryTask.swift */; };
+		FA66F8B1285A077700E2D4FA /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F8A8285A077600E2D4FA /* Consts.swift */; };
+		FA66F8B2285A077700E2D4FA /* Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F8A9285A077600E2D4FA /* Observable.swift */; };
+		FA66F8B4285A07A100E2D4FA /* AppConfigration.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA66F8B3285A07A100E2D4FA /* AppConfigration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +56,38 @@
 		FA66F7F4285A065E00E2D4FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA66F7F7285A065E00E2D4FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA66F7F9285A065E00E2D4FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA66F800285A06EC00E2D4FA /* Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		FA66F802285A06EC00E2D4FA /* Labels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Labels.swift; sourceTree = "<group>"; };
+		FA66F804285A06EC00E2D4FA /* DIspatcherName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DIspatcherName.swift; sourceTree = "<group>"; };
+		FA66F805285A06EC00E2D4FA /* LoadStage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadStage.swift; sourceTree = "<group>"; };
+		FA66F806285A06EC00E2D4FA /* NetworkCheck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkCheck.swift; sourceTree = "<group>"; };
+		FA66F809285A06EC00E2D4FA /* UiviewController+AddChild.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UiviewController+AddChild.swift"; sourceTree = "<group>"; };
+		FA66F80A285A06EC00E2D4FA /* TextFieldExtansions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldExtansions.swift; sourceTree = "<group>"; };
+		FA66F80B285A06EC00E2D4FA /* AlertAble.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertAble.swift; sourceTree = "<group>"; };
+		FA66F80C285A06EC00E2D4FA /* Color+Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Style.swift"; sourceTree = "<group>"; };
+		FA66F80D285A06EC00E2D4FA /* Data+Extansions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data+Extansions.swift"; sourceTree = "<group>"; };
+		FA66F80E285A06EC00E2D4FA /* Textfield.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Textfield.swift; sourceTree = "<group>"; };
+		FA66F80F285A06EC00E2D4FA /* ViewExtansions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewExtansions.swift; sourceTree = "<group>"; };
+		FA66F811285A06EC00E2D4FA /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		FA66F812285A06EC00E2D4FA /* ToastExtansion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToastExtansion.swift; sourceTree = "<group>"; };
+		FA66F813285A06EC00E2D4FA /* NSMutableData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSMutableData.swift; sourceTree = "<group>"; };
+		FA66F814285A06EC00E2D4FA /* Button.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
+		FA66F815285A06EC00E2D4FA /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		FA66F816285A06EC00E2D4FA /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		FA66F82C285A073D00E2D4FA /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		FA66F82E285A073D00E2D4FA /* APIEndpoints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIEndpoints.swift; sourceTree = "<group>"; };
+		FA66F841285A073D00E2D4FA /* FileModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileModel.swift; sourceTree = "<group>"; };
+		FA66F864285A073D00E2D4FA /* NetworkConfigure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkConfigure.swift; sourceTree = "<group>"; };
+		FA66F865285A073D00E2D4FA /* Endpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+		FA66F866285A073D00E2D4FA /* DataTransferService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataTransferService.swift; sourceTree = "<group>"; };
+		FA66F868285A073D00E2D4FA /* EncodeDecoderHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EncodeDecoderHelper.swift; sourceTree = "<group>"; };
+		FA66F86A285A073D00E2D4FA /* ConnectionError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionError.swift; sourceTree = "<group>"; };
+		FA66F86B285A073D00E2D4FA /* Cancellable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cancellable.swift; sourceTree = "<group>"; };
+		FA66F86C285A073D00E2D4FA /* NetworkService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		FA66F86D285A073D00E2D4FA /* RepositoryTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoryTask.swift; sourceTree = "<group>"; };
+		FA66F8A8285A077600E2D4FA /* Consts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
+		FA66F8A9285A077600E2D4FA /* Observable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Observable.swift; sourceTree = "<group>"; };
+		FA66F8B3285A07A100E2D4FA /* AppConfigration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfigration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +120,215 @@
 		FA66F7EA285A065C00E2D4FA /* Test */ = {
 			isa = PBXGroup;
 			children = (
-				FA66F7EB285A065C00E2D4FA /* AppDelegate.swift */,
-				FA66F7ED285A065C00E2D4FA /* SceneDelegate.swift */,
-				FA66F7EF285A065C00E2D4FA /* ViewController.swift */,
+				FA66F8B6285A07FA00E2D4FA /* Application */,
+				FA66F89E285A077600E2D4FA /* Presentation */,
+				FA66F82B285A073D00E2D4FA /* Data */,
+				FA66F8B7285A081E00E2D4FA /* Resource */,
+				FA66F8B5285A07E500E2D4FA /* UI */,
 				FA66F7F1285A065C00E2D4FA /* Main.storyboard */,
-				FA66F7F4285A065E00E2D4FA /* Assets.xcassets */,
-				FA66F7F6285A065E00E2D4FA /* LaunchScreen.storyboard */,
 				FA66F7F9285A065E00E2D4FA /* Info.plist */,
 			);
 			path = Test;
+			sourceTree = "<group>";
+		};
+		FA66F7FF285A06EC00E2D4FA /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F801285A06EC00E2D4FA /* Widget */,
+				FA66F807285A06EC00E2D4FA /* Extensions */,
+				FA66F803285A06EC00E2D4FA /* Enums */,
+				FA66F806285A06EC00E2D4FA /* NetworkCheck.swift */,
+				FA66F815285A06EC00E2D4FA /* Utils.swift */,
+				FA66F800285A06EC00E2D4FA /* Date.swift */,
+				FA66F816285A06EC00E2D4FA /* Colors.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		FA66F801285A06EC00E2D4FA /* Widget */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F802285A06EC00E2D4FA /* Labels.swift */,
+			);
+			path = Widget;
+			sourceTree = "<group>";
+		};
+		FA66F803285A06EC00E2D4FA /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F804285A06EC00E2D4FA /* DIspatcherName.swift */,
+				FA66F805285A06EC00E2D4FA /* LoadStage.swift */,
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		FA66F807285A06EC00E2D4FA /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F809285A06EC00E2D4FA /* UiviewController+AddChild.swift */,
+				FA66F80A285A06EC00E2D4FA /* TextFieldExtansions.swift */,
+				FA66F80B285A06EC00E2D4FA /* AlertAble.swift */,
+				FA66F80C285A06EC00E2D4FA /* Color+Style.swift */,
+				FA66F80D285A06EC00E2D4FA /* Data+Extansions.swift */,
+				FA66F80E285A06EC00E2D4FA /* Textfield.swift */,
+				FA66F80F285A06EC00E2D4FA /* ViewExtansions.swift */,
+				FA66F811285A06EC00E2D4FA /* StringExtension.swift */,
+				FA66F812285A06EC00E2D4FA /* ToastExtansion.swift */,
+				FA66F813285A06EC00E2D4FA /* NSMutableData.swift */,
+				FA66F814285A06EC00E2D4FA /* Button.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		FA66F82B285A073D00E2D4FA /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F82D285A073D00E2D4FA /* Network */,
+				FA66F867285A073D00E2D4FA /* Repositories */,
+				FA66F82C285A073D00E2D4FA /* Model.swift */,
+				FA66F866285A073D00E2D4FA /* DataTransferService.swift */,
+				FA66F86C285A073D00E2D4FA /* NetworkService.swift */,
+				FA66F86D285A073D00E2D4FA /* RepositoryTask.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		FA66F82D285A073D00E2D4FA /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F82F285A073D00E2D4FA /* Repositories */,
+				FA66F840285A073D00E2D4FA /* DataMapping */,
+				FA66F864285A073D00E2D4FA /* NetworkConfigure.swift */,
+				FA66F82E285A073D00E2D4FA /* APIEndpoints.swift */,
+				FA66F865285A073D00E2D4FA /* Endpoint.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		FA66F82F285A073D00E2D4FA /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F830285A073D00E2D4FA /* Protocol */,
+				FA66F838285A073D00E2D4FA /* Implementations */,
+			);
+			path = Repositories;
+			sourceTree = "<group>";
+		};
+		FA66F830285A073D00E2D4FA /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		FA66F838285A073D00E2D4FA /* Implementations */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Implementations;
+			sourceTree = "<group>";
+		};
+		FA66F840285A073D00E2D4FA /* DataMapping */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F841285A073D00E2D4FA /* FileModel.swift */,
+				FA66F842285A073D00E2D4FA /* Responses */,
+				FA66F861285A073D00E2D4FA /* Requests */,
+			);
+			path = DataMapping;
+			sourceTree = "<group>";
+		};
+		FA66F842285A073D00E2D4FA /* Responses */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Responses;
+			sourceTree = "<group>";
+		};
+		FA66F861285A073D00E2D4FA /* Requests */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Requests;
+			sourceTree = "<group>";
+		};
+		FA66F867285A073D00E2D4FA /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F868285A073D00E2D4FA /* EncodeDecoderHelper.swift */,
+				FA66F869285A073D00E2D4FA /* Errors */,
+			);
+			path = Repositories;
+			sourceTree = "<group>";
+		};
+		FA66F869285A073D00E2D4FA /* Errors */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F86A285A073D00E2D4FA /* ConnectionError.swift */,
+				FA66F86B285A073D00E2D4FA /* Cancellable.swift */,
+			);
+			path = Errors;
+			sourceTree = "<group>";
+		};
+		FA66F89E285A077600E2D4FA /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F89F285A077600E2D4FA /* ViewModels */,
+				FA66F8A7285A077600E2D4FA /* Holders */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		FA66F89F285A077600E2D4FA /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		FA66F8A7285A077600E2D4FA /* Holders */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F8A8285A077600E2D4FA /* Consts.swift */,
+				FA66F8A9285A077600E2D4FA /* Observable.swift */,
+			);
+			path = Holders;
+			sourceTree = "<group>";
+		};
+		FA66F8B5285A07E500E2D4FA /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F8B8285A086E00E2D4FA /* TabController */,
+				FA66F7FF285A06EC00E2D4FA /* Utils */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		FA66F8B6285A07FA00E2D4FA /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F7EB285A065C00E2D4FA /* AppDelegate.swift */,
+				FA66F8B3285A07A100E2D4FA /* AppConfigration.swift */,
+				FA66F7ED285A065C00E2D4FA /* SceneDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		FA66F8B7285A081E00E2D4FA /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F7F6285A065E00E2D4FA /* LaunchScreen.storyboard */,
+				FA66F7F4285A065E00E2D4FA /* Assets.xcassets */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		FA66F8B8285A086E00E2D4FA /* TabController */ = {
+			isa = PBXGroup;
+			children = (
+				FA66F7EF285A065C00E2D4FA /* ViewController.swift */,
+			);
+			path = TabController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +402,41 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA66F86F285A073D00E2D4FA /* APIEndpoints.swift in Sources */,
 				FA66F7F0285A065C00E2D4FA /* ViewController.swift in Sources */,
+				FA66F826285A06EC00E2D4FA /* ToastExtansion.swift in Sources */,
+				FA66F899285A073E00E2D4FA /* EncodeDecoderHelper.swift in Sources */,
+				FA66F821285A06EC00E2D4FA /* Data+Extansions.swift in Sources */,
+				FA66F8B2285A077700E2D4FA /* Observable.swift in Sources */,
+				FA66F818285A06EC00E2D4FA /* Labels.swift in Sources */,
+				FA66F81A285A06EC00E2D4FA /* LoadStage.swift in Sources */,
+				FA66F898285A073E00E2D4FA /* DataTransferService.swift in Sources */,
+				FA66F89C285A073E00E2D4FA /* NetworkService.swift in Sources */,
+				FA66F829285A06EC00E2D4FA /* Utils.swift in Sources */,
+				FA66F89B285A073E00E2D4FA /* Cancellable.swift in Sources */,
+				FA66F828285A06EC00E2D4FA /* Button.swift in Sources */,
+				FA66F827285A06EC00E2D4FA /* NSMutableData.swift in Sources */,
+				FA66F820285A06EC00E2D4FA /* Color+Style.swift in Sources */,
+				FA66F8B1285A077700E2D4FA /* Consts.swift in Sources */,
+				FA66F823285A06EC00E2D4FA /* ViewExtansions.swift in Sources */,
+				FA66F89A285A073E00E2D4FA /* ConnectionError.swift in Sources */,
 				FA66F7EC285A065C00E2D4FA /* AppDelegate.swift in Sources */,
+				FA66F897285A073E00E2D4FA /* Endpoint.swift in Sources */,
+				FA66F82A285A06EC00E2D4FA /* Colors.swift in Sources */,
+				FA66F81D285A06EC00E2D4FA /* UiviewController+AddChild.swift in Sources */,
+				FA66F8B4285A07A100E2D4FA /* AppConfigration.swift in Sources */,
+				FA66F86E285A073D00E2D4FA /* Model.swift in Sources */,
+				FA66F87E285A073D00E2D4FA /* FileModel.swift in Sources */,
+				FA66F89D285A073E00E2D4FA /* RepositoryTask.swift in Sources */,
+				FA66F81F285A06EC00E2D4FA /* AlertAble.swift in Sources */,
+				FA66F81E285A06EC00E2D4FA /* TextFieldExtansions.swift in Sources */,
 				FA66F7EE285A065C00E2D4FA /* SceneDelegate.swift in Sources */,
+				FA66F81B285A06EC00E2D4FA /* NetworkCheck.swift in Sources */,
+				FA66F825285A06EC00E2D4FA /* StringExtension.swift in Sources */,
+				FA66F817285A06EC00E2D4FA /* Date.swift in Sources */,
+				FA66F822285A06EC00E2D4FA /* Textfield.swift in Sources */,
+				FA66F819285A06EC00E2D4FA /* DIspatcherName.swift in Sources */,
+				FA66F896285A073E00E2D4FA /* NetworkConfigure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
